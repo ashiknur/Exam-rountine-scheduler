@@ -1,0 +1,11 @@
+D:\Exam Routine Sceduler\Exam Routine Sceduler\bin\Debug\Exam Routine Sceduler.exe.config
+D:\Exam Routine Sceduler\Exam Routine Sceduler\bin\Debug\Exam Routine Sceduler.exe
+D:\Exam Routine Sceduler\Exam Routine Sceduler\bin\Debug\Exam Routine Sceduler.pdb
+D:\Exam Routine Sceduler\Exam Routine Sceduler\obj\Debug\Exam Routine Sceduler.csproj.AssemblyReference.cache
+D:\Exam Routine Sceduler\Exam Routine Sceduler\obj\Debug\Exam Routine Sceduler.csproj.SuggestedBindingRedirects.cache
+D:\Exam Routine Sceduler\Exam Routine Sceduler\obj\Debug\Exam_Routine_Sceduler.Properties.Resources.resources
+D:\Exam Routine Sceduler\Exam Routine Sceduler\obj\Debug\Exam Routine Sceduler.csproj.GenerateResource.cache
+D:\Exam Routine Sceduler\Exam Routine Sceduler\obj\Debug\Exam Routine Sceduler.csproj.CoreCompileInputs.cache
+D:\Exam Routine Sceduler\Exam Routine Sceduler\obj\Debug\Exam Routine Sceduler.exe
+D:\Exam Routine Sceduler\Exam Routine Sceduler\obj\Debug\Exam Routine Sceduler.pdb
+D:\Exam Routine Sceduler\Exam Routine Sceduler\obj\Debug\Exam_Routine_Sceduler.MainForm.resources
